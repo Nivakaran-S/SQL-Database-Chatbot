@@ -1,4 +1,4 @@
-# 🦜 LangChain SQL Database Chatbot — Conversational Data Explorer
+# 🦜 LangChain SQL Database Chatbot: Conversational Data Explorer
 
 ## 🚀 Project Overview
 
